@@ -111,7 +111,7 @@ You can follow any pathway a `code` or `profile information`
 
 ```py
 '''
-Always make more than 4 pull requests.
+Always make more than 6 pull requests.
 Let's say you have made only 4 pull requests to different projects,
 but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
 then you have the remaining 3 valid pull requests if these projects are not excluded.
